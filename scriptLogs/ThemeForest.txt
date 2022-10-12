@@ -1,0 +1,182 @@
+[2022-10-12 14:18:59,368] Pre-Condition: Open browser and navigate to Homepage
+[2022-10-12 14:19:06,580] Checkout - Step 01: Click to 'Web Themes & Templates' menu
+[2022-10-12 14:19:07,935] Checkout - Step 02: Click to 'Template Kits' link from 'Elementor' submenu
+[2022-10-12 14:19:09,954] Checkout - Step 03: Choose Grid View mode
+[2022-10-12 14:19:12,005] Checkout - Step 04: Add product 'Cabel - Electricity Services Elementor Template Kit' to Cart
+[2022-10-12 14:19:13,984] Checkout - Step 05: Click to 'Keep Browsing' button to continue choosing next product
+[2022-10-12 14:19:15,876] Checkout - Step 06: Add product 'Maldives - Business & Agency Elementor Template Kit' to Cart
+[2022-10-12 14:19:17,282] Checkout - Step 07: Click to 'Go to Checkout' button
+[2022-10-12 14:19:23,436] Checkout - Step 08: Verify product 'Cabel - Electricity Services Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:19:23,550]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:23,550] Checkout - Step 09: Verify product 'Cabel - Electricity Services Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:19:23,690]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:23,691] Checkout - Step 10: Verify product 'Maldives - Business & Agency Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:19:23,776]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:23,776] Checkout - Step 11: Verify product 'Maldives - Business & Agency Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:19:23,857]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:23,858] Checkout - Step 12: Verify cart total is correctly displayed
+[2022-10-12 14:19:24,094]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:24,094] Checkout - Step 13: Click to 'Secure Checkout' button
+[2022-10-12 14:19:27,371] Checkout - Step 14: Input to Firstname textbox with value: Vincent
+[2022-10-12 14:19:28,935] Checkout - Step 15: Input to Lastname textbox with value: VSM
+[2022-10-12 14:19:30,294] Checkout - Step 16: Input to Email textbox with value: vincent@gmail.com
+[2022-10-12 14:19:31,969] Checkout - Step 17: Input to Username textbox with value: vincen218
+[2022-10-12 14:19:34,693] Checkout - Step 18: Input to Password textbox with value: Vincen@218
+[2022-10-12 14:19:36,180] Checkout - Step 19: Tick to captcha checkbox
+[2022-10-12 14:19:37,539] Checkout - Step 20: Tick to send me tips checkbox
+[2022-10-12 14:19:38,733] Checkout - Step 21: Back to Cart Page
+[2022-10-12 14:19:40,886] Checkout - Step 22: Click to 'Empty Cart' button
+[2022-10-12 14:19:42,150] Checkout - Step 23: Accept alert to remove all item from cart
+[2022-10-12 14:19:42,173] Checkout - Step 24: Verify cart is empty
+[2022-10-12 14:19:43,426]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:43,436] Checkout - Step 01: Click to 'Web Themes & Templates' menu
+[2022-10-12 14:19:47,451] Checkout - Step 02: Click to 'Template Kits' link from 'Elementor' submenu
+[2022-10-12 14:19:49,054] Checkout - Step 03: Choose Grid View mode
+[2022-10-12 14:19:51,008] Checkout - Step 04: Add product 'Cabel - Electricity Services Elementor Template Kit' to Cart
+[2022-10-12 14:19:52,893] Checkout - Step 05: Click to 'Keep Browsing' button to continue choosing next product
+[2022-10-12 14:19:54,677] Checkout - Step 06: Add product 'Maldives - Business & Agency Elementor Template Kit' to Cart
+[2022-10-12 14:19:55,970] Checkout - Step 07: Click to 'Go to Checkout' button
+[2022-10-12 14:19:58,616] Checkout - Step 08: Verify product 'Cabel - Electricity Services Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:19:58,757]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:58,757] Checkout - Step 09: Verify product 'Cabel - Electricity Services Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:19:58,843]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:58,843] Checkout - Step 10: Verify product 'Maldives - Business & Agency Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:19:58,941]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:58,941] Checkout - Step 11: Verify product 'Maldives - Business & Agency Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:19:59,004]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:59,004] Checkout - Step 12: Verify cart total is correctly displayed
+[2022-10-12 14:19:59,271]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:19:59,272] Checkout - Step 13: Click to 'Secure Checkout' button
+[2022-10-12 14:20:03,297] Checkout - Step 14: Input to Firstname textbox with value: Leo
+[2022-10-12 14:20:04,647] Checkout - Step 15: Input to Lastname textbox with value: VSM
+[2022-10-12 14:20:06,046] Checkout - Step 16: Input to Email textbox with value: leo@gmail.com
+[2022-10-12 14:20:07,588] Checkout - Step 17: Input to Username textbox with value: leo123
+[2022-10-12 14:20:10,219] Checkout - Step 18: Input to Password textbox with value: Leo@5421
+[2022-10-12 14:20:11,622] Checkout - Step 19: Untick to captcha checkbox
+[2022-10-12 14:20:11,781] Checkout - Step 20: Untick to send me tips checkbox
+[2022-10-12 14:20:16,109] Checkout - Step 21: Back to Cart Page
+[2022-10-12 14:20:18,198] Checkout - Step 22: Click to 'Empty Cart' button
+[2022-10-12 14:20:19,581] Checkout - Step 23: Accept alert to remove all item from cart
+[2022-10-12 14:20:19,593] Checkout - Step 24: Verify cart is empty
+[2022-10-12 14:20:20,748]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:20,767] Checkout - Step 01: Click to 'Web Themes & Templates' menu
+[2022-10-12 14:20:23,427] Checkout - Step 02: Click to 'Template Kits' link from 'Elementor' submenu
+[2022-10-12 14:20:24,993] Checkout - Step 03: Choose Grid View mode
+[2022-10-12 14:20:26,850] Checkout - Step 04: Add product 'Cabel - Electricity Services Elementor Template Kit' to Cart
+[2022-10-12 14:20:28,679] Checkout - Step 05: Click to 'Keep Browsing' button to continue choosing next product
+[2022-10-12 14:20:30,471] Checkout - Step 06: Add product 'Maldives - Business & Agency Elementor Template Kit' to Cart
+[2022-10-12 14:20:31,764] Checkout - Step 07: Click to 'Go to Checkout' button
+[2022-10-12 14:20:34,368] Checkout - Step 08: Verify product 'Cabel - Electricity Services Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:20:34,513]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:34,513] Checkout - Step 09: Verify product 'Cabel - Electricity Services Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:20:34,607]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:34,607] Checkout - Step 10: Verify product 'Maldives - Business & Agency Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:20:34,701]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:34,701] Checkout - Step 11: Verify product 'Maldives - Business & Agency Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:20:34,970]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:34,970] Checkout - Step 12: Verify cart total is correctly displayed
+[2022-10-12 14:20:35,057]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:35,057] Checkout - Step 13: Click to 'Secure Checkout' button
+[2022-10-12 14:20:38,172] Checkout - Step 14: Input to Firstname textbox with value: Thao
+[2022-10-12 14:20:39,578] Checkout - Step 15: Input to Lastname textbox with value: Le
+[2022-10-12 14:20:40,919] Checkout - Step 16: Input to Email textbox with value: thaole@gmail.com
+[2022-10-12 14:20:42,510] Checkout - Step 17: Input to Username textbox with value: thaole123
+[2022-10-12 14:20:45,175] Checkout - Step 18: Input to Password textbox with value: Thao@!#$
+[2022-10-12 14:20:46,557] Checkout - Step 19: Untick to captcha checkbox
+[2022-10-12 14:20:46,714] Checkout - Step 20: Tick to send me tips checkbox
+[2022-10-12 14:20:47,908] Checkout - Step 21: Back to Cart Page
+[2022-10-12 14:20:49,961] Checkout - Step 22: Click to 'Empty Cart' button
+[2022-10-12 14:20:51,332] Checkout - Step 23: Accept alert to remove all item from cart
+[2022-10-12 14:20:51,357] Checkout - Step 24: Verify cart is empty
+[2022-10-12 14:20:52,509]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:20:53,340] Pre-Condition: Open browser and navigate to Homepage
+[2022-10-12 14:21:03,444] Checkout - Step 01: Click to 'Web Themes & Templates' menu
+[2022-10-12 14:21:06,199] Checkout - Step 02: Click to 'Template Kits' link from 'Elementor' submenu
+[2022-10-12 14:21:10,047] Checkout - Step 03: Choose Grid View mode
+[2022-10-12 14:21:12,373] Checkout - Step 04: Add product 'Cabel - Electricity Services Elementor Template Kit' to Cart
+[2022-10-12 14:21:14,468] Checkout - Step 05: Click to 'Keep Browsing' button to continue choosing next product
+[2022-10-12 14:21:16,236] Checkout - Step 06: Add product 'Maldives - Business & Agency Elementor Template Kit' to Cart
+[2022-10-12 14:21:17,694] Checkout - Step 07: Click to 'Go to Checkout' button
+[2022-10-12 14:21:20,443] Checkout - Step 08: Verify product 'Cabel - Electricity Services Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:21:20,563]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:20,563] Checkout - Step 09: Verify product 'Cabel - Electricity Services Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:21:20,731]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:20,731] Checkout - Step 10: Verify product 'Maldives - Business & Agency Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:21:20,846]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:20,846] Checkout - Step 11: Verify product 'Maldives - Business & Agency Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:21:20,916]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:20,916] Checkout - Step 12: Verify cart total is correctly displayed
+[2022-10-12 14:21:21,050]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:21,051] Checkout - Step 13: Click to 'Secure Checkout' button
+[2022-10-12 14:21:24,634] Checkout - Step 14: Input to Firstname textbox with value: Vincent
+[2022-10-12 14:21:26,038] Checkout - Step 15: Input to Lastname textbox with value: VSM
+[2022-10-12 14:21:27,386] Checkout - Step 16: Input to Email textbox with value: vincent@gmail.com
+[2022-10-12 14:21:28,836] Checkout - Step 17: Input to Username textbox with value: vincen218
+[2022-10-12 14:21:31,340] Checkout - Step 18: Input to Password textbox with value: Vincen@218
+[2022-10-12 14:21:32,697] Checkout - Step 19: Tick to captcha checkbox
+[2022-10-12 14:21:34,055] Checkout - Step 20: Tick to send me tips checkbox
+[2022-10-12 14:21:35,210] Checkout - Step 21: Back to Cart Page
+[2022-10-12 14:21:36,440] Checkout - Step 22: Click to 'Empty Cart' button
+[2022-10-12 14:21:39,933] Checkout - Step 23: Accept alert to remove all item from cart
+[2022-10-12 14:21:39,958] Checkout - Step 24: Verify cart is empty
+[2022-10-12 14:21:42,887]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:42,892] Checkout - Step 01: Click to 'Web Themes & Templates' menu
+[2022-10-12 14:21:45,728] Checkout - Step 02: Click to 'Template Kits' link from 'Elementor' submenu
+[2022-10-12 14:21:47,419] Checkout - Step 03: Choose Grid View mode
+[2022-10-12 14:21:48,970] Checkout - Step 04: Add product 'Cabel - Electricity Services Elementor Template Kit' to Cart
+[2022-10-12 14:21:50,930] Checkout - Step 05: Click to 'Keep Browsing' button to continue choosing next product
+[2022-10-12 14:21:52,570] Checkout - Step 06: Add product 'Maldives - Business & Agency Elementor Template Kit' to Cart
+[2022-10-12 14:21:54,002] Checkout - Step 07: Click to 'Go to Checkout' button
+[2022-10-12 14:21:57,938] Checkout - Step 08: Verify product 'Cabel - Electricity Services Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:21:58,498]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:58,498] Checkout - Step 09: Verify product 'Cabel - Electricity Services Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:21:58,804]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:58,804] Checkout - Step 10: Verify product 'Maldives - Business & Agency Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:21:59,188]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:59,188] Checkout - Step 11: Verify product 'Maldives - Business & Agency Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:21:59,786]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:21:59,786] Checkout - Step 12: Verify cart total is correctly displayed
+[2022-10-12 14:22:00,073]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:00,073] Checkout - Step 13: Click to 'Secure Checkout' button
+[2022-10-12 14:22:04,259] Checkout - Step 14: Input to Firstname textbox with value: Leo
+[2022-10-12 14:22:05,716] Checkout - Step 15: Input to Lastname textbox with value: VSM
+[2022-10-12 14:22:07,031] Checkout - Step 16: Input to Email textbox with value: leo@gmail.com
+[2022-10-12 14:22:08,448] Checkout - Step 17: Input to Username textbox with value: leo123
+[2022-10-12 14:22:10,945] Checkout - Step 18: Input to Password textbox with value: Leo@5421
+[2022-10-12 14:22:12,262] Checkout - Step 19: Untick to captcha checkbox
+[2022-10-12 14:22:12,392] Checkout - Step 20: Untick to send me tips checkbox
+[2022-10-12 14:22:16,838] Checkout - Step 21: Back to Cart Page
+[2022-10-12 14:22:18,081] Checkout - Step 22: Click to 'Empty Cart' button
+[2022-10-12 14:22:20,300] Checkout - Step 23: Accept alert to remove all item from cart
+[2022-10-12 14:22:20,346] Checkout - Step 24: Verify cart is empty
+[2022-10-12 14:22:21,405]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:21,410] Checkout - Step 01: Click to 'Web Themes & Templates' menu
+[2022-10-12 14:22:23,221] Checkout - Step 02: Click to 'Template Kits' link from 'Elementor' submenu
+[2022-10-12 14:22:24,924] Checkout - Step 03: Choose Grid View mode
+[2022-10-12 14:22:26,531] Checkout - Step 04: Add product 'Cabel - Electricity Services Elementor Template Kit' to Cart
+[2022-10-12 14:22:28,363] Checkout - Step 05: Click to 'Keep Browsing' button to continue choosing next product
+[2022-10-12 14:22:30,098] Checkout - Step 06: Add product 'Maldives - Business & Agency Elementor Template Kit' to Cart
+[2022-10-12 14:22:31,533] Checkout - Step 07: Click to 'Go to Checkout' button
+[2022-10-12 14:22:33,976] Checkout - Step 08: Verify product 'Cabel - Electricity Services Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:22:34,103]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:34,103] Checkout - Step 09: Verify product 'Cabel - Electricity Services Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:22:34,166]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:34,166] Checkout - Step 10: Verify product 'Maldives - Business & Agency Elementor Template Kit' name is correctly displayed
+[2022-10-12 14:22:34,249]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:34,249] Checkout - Step 11: Verify product 'Maldives - Business & Agency Elementor Template Kit' price is correctly displayed
+[2022-10-12 14:22:34,318]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:34,318] Checkout - Step 12: Verify cart total is correctly displayed
+[2022-10-12 14:22:34,440]  -------------------------- PASSED -------------------------- 
+[2022-10-12 14:22:34,440] Checkout - Step 13: Click to 'Secure Checkout' button
+[2022-10-12 14:22:37,470] Checkout - Step 14: Input to Firstname textbox with value: Thao
+[2022-10-12 14:22:39,009] Checkout - Step 15: Input to Lastname textbox with value: Le
+[2022-10-12 14:22:40,341] Checkout - Step 16: Input to Email textbox with value: thaole@gmail.com
+[2022-10-12 14:22:41,785] Checkout - Step 17: Input to Username textbox with value: thaole123
+[2022-10-12 14:22:44,322] Checkout - Step 18: Input to Password textbox with value: Thao@!#$
+[2022-10-12 14:22:45,645] Checkout - Step 19: Untick to captcha checkbox
+[2022-10-12 14:22:45,777] Checkout - Step 20: Tick to send me tips checkbox
+[2022-10-12 14:22:46,934] Checkout - Step 21: Back to Cart Page
+[2022-10-12 14:22:48,124] Checkout - Step 22: Click to 'Empty Cart' button
+[2022-10-12 14:22:50,277] Checkout - Step 23: Accept alert to remove all item from cart
+[2022-10-12 14:22:50,309] Checkout - Step 24: Verify cart is empty
+[2022-10-12 14:22:51,333]  -------------------------- PASSED -------------------------- 
